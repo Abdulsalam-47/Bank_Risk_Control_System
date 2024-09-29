@@ -11,16 +11,16 @@ This project aims to develop a predictive model to determine the likelihood of c
 
 ## Take Away Skills
 
-PYTHON
-DATA PREPROCESS
-EDA
-PANDAS
-NUMPY
-VISUALIZATION
-MACHINE LEARNING
-STREAMLIT GUI
+### PYTHON
+### DATA PREPROCESS
+### EDA
+### PANDAS
+### NUMPY
+### VISUALIZATION
+### MACHINE LEARNING
+### STREAMLIT GUI
 
-##Work Flow
+## Work Flow
 Data Preprocessing: Clean the dataset to handle missing values, outliers, and transform categorical variables into a suitable format for model training.
 Exploratory Data Analysis (EDA): Understand the distribution of data, identify important features, and detect any patterns or correlations that might help in prediction.
 Model Development: Train various classification models to predict the target variable, including but not limited to Logistic Regression, Decision Trees, Random Forest, Gradient Boosting, and Neural Networks.
