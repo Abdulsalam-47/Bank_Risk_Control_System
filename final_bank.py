@@ -14,7 +14,7 @@ import base64
 
 
 
-#df_modified = pd.read_csv("C:/Users/HP/Desktop/Data Scientist/project/final -Bank Risk Controller Systems/df_modified.csv")
+
 df = pd.read_csv(r"D:\Guvi Projects\Bank risk controller system\df_new.csv")
 
 
